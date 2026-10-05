@@ -39,6 +39,6 @@
 
 ###
 
-<h4 data-importer="text" align="center">Olá sou Amapaense e estudo na Uniasselvi.</h4>
+<h4 data-importer="text" align="center">Olá sou Amapaense, moro em Santa Catarina e sou apaixonado por tecnologia.</h4>
 
 ###
