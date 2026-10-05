@@ -39,6 +39,6 @@
 
 ###
 
-<h4 data-importer="text" align="center">Olá sou Amapaense, moro em Santa Catarina e sou apaixonado por tecnologia.</h4>
+<h4 data-importer="text" align="center">Olá sou Amapaense, residente em Blumenau-SC, universitário e apaixonado por tecnologia.</h4>
 
 ###
